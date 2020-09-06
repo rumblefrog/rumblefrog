@@ -4,7 +4,7 @@ Ahoy, I'm a full-stack developer a student!
 
 ### 🔭 I’m currently working on
 
-[MaxDB](https://maxdb.net)! A small TF2 dodgeball community, also the best SRCD game.
+[MaxDB](https://maxdb.net)! A small Team Fortress 2 dodgeball community.
 
 ### 📫 Get in touch
 
