@@ -1,8 +1,14 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rumblefrog&theme=vue-dark&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumblefrog&theme=vue-dark&hide=sourcepawn,php,html&layout=compact)
+# @rumblefrog
 
+Ahoy, I'm a full-stack developer a student!
 
-<!-- ### Hi there 👋 -->
+### 🔭 I’m currently working on
+
+[MaxDB](https://maxdb.net)! A small TF2 dodgeball community, also the best SRCD game.
+
+### 📫 Get in touch
+
+- Keybase: https://keybase.io/rumblefrog
 
 <!--
 **rumblefrog/rumblefrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rumblefrog&theme=vue-dark&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumblefrog&theme=vue-dark&hide=sourcepawn,php,html&layout=compact)
