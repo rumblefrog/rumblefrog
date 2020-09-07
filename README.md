@@ -1,6 +1,6 @@
 # @rumblefrog
 
-Ahoy, I'm a full-stack developer a student!
+Ahoy, I'm a full-stack developer and a student!
 
 ### 🔭 I’m currently working on
 
