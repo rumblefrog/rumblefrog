@@ -2,7 +2,7 @@
 
 Hello 👋
 
-I'm full-stack developer, specializing in Rust/Typescript currently, with experience with things in between!
+I'm full-stack developer, specializing in Rust/Typescript & ML currently, with experience with things in between!
 
 ### 📫 Get in touch
 
