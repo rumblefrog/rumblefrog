@@ -8,7 +8,7 @@ I'm full-stack developer, specializing in Rust/Typescript & ML currently, with e
 
 Should you find value in my contributions or wish to contribute towards my future endeavors, kindly consider providing sponsorship.
 
-Your assistance significantly aids in allocating more time to open-source projects: [https://github.com/rumblefrog](https://github.com/sponsors/rumblefrog)
+Your assistance significantly aids in allocating more time to open-source projects: [https://github.com/sponsors/rumblefrog](https://github.com/sponsors/rumblefrog)
 
 ### 📫 Get in touch
 
