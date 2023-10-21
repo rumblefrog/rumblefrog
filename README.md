@@ -2,7 +2,7 @@
 
 Hello 👋
 
-I'm full-stack developer, specializing in Rust/Typescript & ML currently, with experience with things in between!
+I'm currently a full-time software engineer specializing in Rust/Go/Typescript & ML, with experience with things in between! I work on open-source projects whenever I have free time.
 
 ### 🎁 Offering your support
 
