@@ -2,7 +2,7 @@
 
 Hello 👋
 
-I'm currently a full-time software engineer specializing in Rust/Go/Typescript & ML, with experience with things in between! I work on open-source projects whenever I have free time.
+I'm currently a full-time software engineer specializing in distributed systems & ML with Rust/Go/Typescript, with experience with things in between! I work on open-source projects whenever I have free time.
 
 ### 🎁 Offering your support
 
